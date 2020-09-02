@@ -5,6 +5,6 @@
 
 源作者地址：
 
-Aria2 一键安装管理脚本 增强版:https://github.com/P3TERX/aria2.sh
+Aria2 一键安装管理脚本 增强版：https://github.com/P3TERX/aria2.sh
 
-OneClickRun:https://github.com/biplobsd/OneClickRun
+OneClickRun：https://github.com/biplobsd/OneClickRun
